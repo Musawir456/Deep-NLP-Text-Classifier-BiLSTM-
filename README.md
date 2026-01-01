@@ -61,5 +61,5 @@ The full experiment is available as a Kaggle notebook:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<musawir456>/deep-nlp-text-classification-bilstm.git
+  https://github.com/Musawir456/Deep-NLP-Text-Classifier-BiLSTM-/blob/main/README.md
    cd deep-nlp-text-classification-bilstm
