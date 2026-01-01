@@ -55,11 +55,11 @@ This project implements an end-to-end deep NLP pipeline to classify text respons
 
 The full experiment is available as a Kaggle notebook:
 
-👉 `<your_kaggle_notebook_link_here>`
+👉 https://www.kaggle.com/code/abmusawir/deep-nlp-text-classification-on-custom-dataset
 
 ## How to Run (locally)
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/deep-nlp-text-classification-bilstm.git
+   git clone https://github.com/<musawir456>/deep-nlp-text-classification-bilstm.git
    cd deep-nlp-text-classification-bilstm
