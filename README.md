@@ -238,7 +238,7 @@ predict("Your custom text goes here...")
 <div align="center">
 
 **Abdul Musawir**
-*AI/ Machine Learning Engineer & Data Scientist*
+*AI/ML Engineer & Data Scientist*
 📍 Lahore, Pakistan
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/musawir_4)
